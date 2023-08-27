@@ -1,0 +1,30 @@
+.header_wrap{
+    width: 100%;
+    margin:auto;
+    /* padding: 46px; */
+  }
+
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+  .won-nav {
+    color : white;
+  }
+
+  .won-font{
+    color: white;
+    text-align: center;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: bold;
+    font-weight: 800;
+    line-height: 24px;
+  }
